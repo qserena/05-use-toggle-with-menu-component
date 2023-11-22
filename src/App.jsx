@@ -16,11 +16,11 @@ function App() {
 
 	return (
 		<>
-			<Star />
+			<Star onChange={() => {}} />
 
 			<br />
 
-			<Menu>
+			<Menu onOpen={() => console.log('Menu is opened.')}>
 				<Menu.Button>Menu</Menu.Button>
 				<Menu.Dropdown>
 					<Menu.Item>Home</Menu.Item>
