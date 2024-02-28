@@ -5,7 +5,7 @@ This is an exercise in using the Toggle component to handle the state and the co
 
 The logic in the Toggle component are used to show (and hide) the dropdown menu in the Menu component.
 
-(the star has nothing to do with this challenge, it is just there as another independent Toggle implementation)
+(the yellow star has nothing to do with this challenge, it is just there as another independent Toggle implementation)
   
 <br/>
 <img src="toggle-with-menu.png" alt="Screenshot." width="200px"/>
