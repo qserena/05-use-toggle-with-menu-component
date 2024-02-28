@@ -1,11 +1,14 @@
 # Use Toggle Component With Menu Component
 
 ## Description
-This is a headless component holding a state which can be of value On or Off. Depending on the state, one of the two sub-components ToggleOn and ToggleOff are shown - In this implementation a filled star (On) or a non-filled star (Off).
+This is an exercise in using the Toggle component to handle the state and context of the Menu component.
   
 <br/>
-<img src="toggle-with-menu.png" alt="Screenshot." width="100px"/>
+<img src="toggle-with-menu.png" alt="Screenshot." width="200px"/>
 
 ## Technologies
 - React
+
+- ## Live link
+This implementation is NOT deployed anywhere, yet. 
 
