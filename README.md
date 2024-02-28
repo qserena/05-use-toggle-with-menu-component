@@ -1,8 +1,11 @@
-# React + Vite
+# Use Toggle Component With Menu Component
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
+This is a headless component holding a state which can be of value On or Off. Depending on the state, one of the two sub-components ToggleOn and ToggleOff are shown - In this implementation a filled star (On) or a non-filled star (Off).
+  
+<br/>
+<img src="toggle-with-menu.png" alt="Screenshot." width="100px"/>
 
-Currently, two official plugins are available:
+## Technologies
+- React
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
