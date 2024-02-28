@@ -9,6 +9,6 @@ This is an exercise in using the Toggle component to handle the state and contex
 ## Technologies
 - React
 
-- ## Live link
+## Live link
 This implementation is NOT deployed anywhere, yet. 
 
