@@ -14,5 +14,5 @@ The logic in the Toggle component are used to show (and hide) the dropdown menu 
 - React
 
 ## Live link
-This implementation is NOT deployed anywhere, yet. 
+This implementation is NOT deployed anywhere. 
 
